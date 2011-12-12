@@ -1,0 +1,28 @@
+Package: ruby-mode
+Section: extensions
+License: Custom
+License-Text: http://spdx.org/licenses/Ruby
+X-License-Comment: Ruby license is dual: GPL or custom text
+License-Text:
+Depends: emacs (>= 21)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Nobuyoshi Nakada <nobu@ruby-lang.org>
+Upstream-Bugs:
+Vcs-Type: svn
+Vcs-Url: http://svn.ruby-lang.org/repos/ruby/trunk/misc
+Vcs-Args:
+Vcs-Browser: http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/trunk/misc/
+Vcs-User:
+Vcs-Password:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/RubyMode
+Commentary:
+X-Development: Upstream's private repo is at https://github.com/nobu
+Description: major mode for editing Ruby files (obsolete 23.x)
+ Major mode for editing *.rb Ruby programming language files.
+ .
+ Note: This package is obsolete and not noactivated
+ starting in Emacs 23.x which contains ruby-mode.el.
