@@ -1,5 +1,5 @@
 Package: ruby-mode
-Section: extensions
+Section: languages
 License: Custom
 License-Text: http://spdx.org/licenses/Ruby
 X-License-Comment: Ruby license is dual: GPL or custom text
