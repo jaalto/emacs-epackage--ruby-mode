@@ -1,7 +1,7 @@
 
-;;;### (autoloads (ruby-mode) "ruby-mode" "../ruby-mode.el" (20198
-;;;;;;  12653))
-;;; Generated autoloads from ../ruby-mode.el
+;;;### (autoloads (ruby-mode) "../ruby-mode" "ruby-mode.el" (20198
+;;;;;;  13840))
+;;; Generated autoloads from ruby-mode.el
 
 (autoload 'ruby-mode "ruby-mode" "\
 Major mode for editing ruby scripts.
@@ -15,4 +15,3 @@ The variable ruby-indent-level controls the amount of indentation.
 \(fn)" t nil)
 
 ;;;***
-(provide 'ruby-mode-epkg-0loaddefs)
