@@ -5,4 +5,4 @@
   (setq interpreter-mode-alist
 	(delete (assoc "ruby" interpreter-mode-alist) interpreter-mode-alist)))
 
-(provide 'ruby-mode-epkg-uninstall)
+(provide 'ruby-mode-epackage-uninstall)

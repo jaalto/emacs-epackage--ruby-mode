@@ -31,4 +31,4 @@
 (autoload 'ruby-do-end-to-brace                 "ruby-mode" "" nil)
 (autoload 'ruby-toggle-block                    "ruby-mode" "" t)
 (autoload 'ruby-mode                            "ruby-mode" "" t)
-(provide 'ruby-mode-epkg-autoloads)
+(provide 'ruby-mode-epackage-autoloads)
